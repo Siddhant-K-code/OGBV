@@ -7,13 +7,13 @@ Read more about the project here: https://tattle.co.in/products/ogbv/
 
 ### Backend & Database
 
-- Change director to `annotators`:
+- Change directory to `annotators`:
 
 ```bash
 cd annotators
 ```
 
-- Run Docker script to bring u:
+- Run Docker script to bring up:
 
 ```bash
 docker-compose up
